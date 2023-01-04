@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "^8.0",
+        "illuminate/config": "^9.46",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
